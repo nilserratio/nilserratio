@@ -102,12 +102,8 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 ## Github Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/nilserratio?template=classic&isocalendar=1&languages=1&followup=1&stars=1&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/nilserratio/nilserratio/main/github-metrics/metrics.svg" />
 </div>
-
-
-
-<br/>
 
 <br/>
 
