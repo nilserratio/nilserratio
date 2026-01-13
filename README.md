@@ -102,7 +102,7 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 ## Github Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nilserratio/nilserratio/main/github-metrics/metrics.svg" />
+  <img src="./github-metrics/metrics.svg" />
 </div>
 
 <br/>
