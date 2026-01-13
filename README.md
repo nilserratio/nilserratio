@@ -34,131 +34,65 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <div align="center">
 
 <!-- Core -->
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
 
 <!-- Languages -->
-<a href="https://www.javascript.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original.svg" alt="SQL" height="50" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
 
 <!-- Frontend -->
-<a href="https://astro.build/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" />
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vitejs-original.svg" alt="Vite" height="50" />
-</a>
+<img src="https://cdn.simpleicons.org/astro/FF5D01" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50"/>
 
 <!-- Data -->
-<a href="https://tanstack.com/query/latest" target="_blank">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="TanStack Query" height="50" />
-</a>
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" height="50"/>
 
-<!-- UI / Styling -->
-<a href="https://tailwindcss.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss-original.svg" alt="Tailwind CSS" height="50" />
-</a>
-<a href="https://ui.shadcn.com/" target="_blank">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" height="50" />
-</a>
+<!-- UI -->
+<img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="50"/>
+<img src="https://cdn.simpleicons.org/shadcnui/000000" height="50"/>
 
 <!-- Backend -->
-<a href="https://supabase.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/supabase-logo-icon.svg" alt="Supabase" height="50" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-</a>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
 
-<!-- Database / ORM -->
-<a href="https://www.postgresql.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-</a>
-<a href="https://www.prisma.io/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.svg" alt="Prisma" height="50" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-</a>
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/prisma/2D3748" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
 
 <!-- Testing / Quality -->
-<a href="https://playwright.dev/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/playwright.svg" alt="Playwright" height="50" />
-</a>
-<a href="https://jestjs.io/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
-</a>
-<a href="https://eslint.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/eslint-original.svg" alt="ESLint" height="50" />
-</a>
-<a href="https://prettier.io/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prettier-icon.svg" alt="Prettier" height="50" />
-</a>
-<a href="https://sentry.io/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sentry.svg" alt="Sentry" height="50" />
-</a>
+<img src="https://cdn.simpleicons.org/playwright/45ba4b" height="50"/>
+<img src="https://cdn.simpleicons.org/jest/C21325" height="50"/>
+<img src="https://cdn.simpleicons.org/eslint/4B32C3" height="50"/>
+<img src="https://cdn.simpleicons.org/prettier/F7B93E" height="50"/>
+<img src="https://cdn.simpleicons.org/sentry/362D59" height="50"/>
 
-<!-- DevOps / Deploy -->
-<a href="https://github.com/features/actions" target="_blank">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="50" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-</a>
-<a href="https://vercel.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.svg" alt="Vercel" height="50" />
-</a>
-<a href="https://www.netlify.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/netlify.svg" alt="Netlify" height="50" />
-</a>
+<!-- DevOps -->
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" height="50"/>
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="50"/>
 
 <!-- Payments -->
-<a href="https://stripe.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/stripe.svg" alt="Stripe" height="50" />
-</a>
+<img src="https://cdn.simpleicons.org/stripe/635BFF" height="50"/>
 
-<!-- Styling legacy -->
-<a href="https://styled-components.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" />
-</a>
-<a href="http://getbem.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</a>
+<!-- Legacy Styling -->
+<img src="https://cdn.simpleicons.org/styledcomponents/DB7093" height="50"/>
+<img src="https://cdn.simpleicons.org/sass/CC6699" height="50"/>
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50"/>
 
 </div>
 
 <!-- Tools -->
 <div align="center">
-<a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="45" />
-</a>
-<a href="https://www.notion.so/" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" height="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" height="45"/>
+<img src="https://cdn.simpleicons.org/notion/000000" height="45"/>
 </div>
+
 
 
 <br/>
