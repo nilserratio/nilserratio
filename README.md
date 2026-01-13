@@ -64,7 +64,7 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
 
 <!-- Testing / Quality -->
-<img src="https://cdn.simpleicons.org/playwright/45ba4b" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="50"/>
 <img src="https://cdn.simpleicons.org/jest/C21325" height="50"/>
 <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="50"/>
 <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="50"/>
