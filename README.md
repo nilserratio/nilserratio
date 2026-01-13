@@ -20,6 +20,7 @@
 
 ### <div align="center">👨‍💻 About Me : </div>
 
+
 <div align="center">I'm Nil, a full stack web developer (Frontend focused), specialized on building Saas platforms and mobile first modern webs. Allways learning new technologies and new goals.
   </div>
 
@@ -40,6 +41,8 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <br/>
 
 ### <div align="center">🛠️ Languages and Tools : </div>
+
+<br/>
 
 <div align="center">
 
@@ -103,6 +106,7 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <img src="https://cdn.simpleicons.org/notion/000000" height="45"/>
 </div>
 
+<br/>
 
 ---
 
