@@ -101,7 +101,12 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nilserratio&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nilserratio&hide_border=true" 
+  />
+</div>
+
 
 <br/>
 
