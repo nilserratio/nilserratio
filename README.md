@@ -29,6 +29,12 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 
 <br/>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nilserratio&&style=flat-square" align="center" />
+</div>
+
+<br/>
+
 ---
 
 ### <div align="center">🛠️ Languages and Tools : </div>
@@ -95,15 +101,6 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <img src="https://cdn.simpleicons.org/notion/000000" height="45"/>
 </div>
 
----
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nilserratio&&style=flat-square" align="center" />
-</div>
-
-<br/>
 
 ---
 
@@ -118,11 +115,6 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 🚀 Fast MVPs and product iterations  
 
 </div>
-
----
-
-<br/>
-
 
 
 <br />
