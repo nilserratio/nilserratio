@@ -95,19 +95,7 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <img src="https://cdn.simpleicons.org/notion/000000" height="45"/>
 </div>
 
-
-
-<br/>
-
 ---
-
-## Github Stats
-
-<div align="center">
-  <img src="./github-metrics/metrics.svg" />
-</div>
-
-<br/>
 
 <br/>
 
@@ -116,6 +104,26 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 </div>
 
 <br/>
+
+---
+
+### 🚀 What I build
+
+<div align="center">
+
+⚡ SaaS platforms and internal tools  
+📱 Mobile-first web applications  
+🧩 Design systems and component libraries  
+🔐 Auth, billing and real-time features  
+🚀 Fast MVPs and product iterations  
+
+</div>
+
+---
+
+<br/>
+
+
 
 <br />
 
