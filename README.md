@@ -37,6 +37,8 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 
 ---
 
+<br/>
+
 ### <div align="center">🛠️ Languages and Tools : </div>
 
 <div align="center">
@@ -104,7 +106,9 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 
 ---
 
-### 🚀 What I build
+<br/>
+
+### <div align="center">🚀 What I build</div>
 
 <div align="center">
 
