@@ -102,10 +102,9 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 ## Github Stats
 
 <div align="center">
-  <img 
-    src="https://stats.quine.sh/nilserratio/github?theme=light" 
-  />
+  <img src="https://metrics.lecoq.io/nilserratio?template=classic&isocalendar=1&languages=1&followup=1&stars=1&hide_border=true" />
 </div>
+
 
 
 <br/>
@@ -120,12 +119,5 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 
 <br/>
 
-<div align="center">
-            <a href="https://paypal.me/Nil Serra Tio" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
