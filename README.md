@@ -16,8 +16,6 @@
   
 ---
 
-<br/>
-
 ### <div align="center">👨‍💻 About Me : </div>
 
 
@@ -37,8 +35,6 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <br/>
 
 ---
-
-<br/>
 
 ### <div align="center">🛠️ Languages and Tools : </div>
 
@@ -109,8 +105,6 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 <br/>
 
 ---
-
-<br/>
 
 ### <div align="center">🚀 What I build</div>
 
