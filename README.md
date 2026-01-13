@@ -103,10 +103,10 @@ _<div align="center">Learn from yesterday, live for today, hope for tomorrow. Th
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=nilserratio&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nilserratio&show_icons=true&count_private=true&hide_border=true" 
+    align="center" 
   />
 </div>
-
 
 <br/>
 
