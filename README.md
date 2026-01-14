@@ -21,9 +21,9 @@
 
 <div align="center">I'm Nil, a full stack web developer (Frontend focused), specialized on building Saas platforms and mobile first modern webs. Allways learning new technologies and new goals.
   </div>
-
+<br/>
   <div align="center">Most of my current projects are private — check out my website to see my work.</div>
-
+<br/>
 _<div align="center">Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioing - Albert Einstein</div>_
 
 <br/>
