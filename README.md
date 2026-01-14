@@ -24,7 +24,7 @@
 <br/>
   <div align="center">Most of my current projects are private — check out my website to see my work.</div>
 <br/>
-_<div align="center">Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioing - Albert Einstein</div>_
+<div align="center">Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioing - Albert Einstein</div>_
 
 <br/>
 
